@@ -1,0 +1,13 @@
+C:\Users\Bagas\Desktop\PROYEK PV\PROYEK PV\bin\Debug\PROYEK PV.exe.config
+C:\Users\Bagas\Desktop\PROYEK PV\PROYEK PV\bin\Debug\PROYEK PV.exe
+C:\Users\Bagas\Desktop\PROYEK PV\PROYEK PV\bin\Debug\PROYEK PV.pdb
+C:\Users\Bagas\Desktop\PROYEK PV\PROYEK PV\obj\Debug\PROYEK_PV.Form1.resources
+C:\Users\Bagas\Desktop\PROYEK PV\PROYEK PV\obj\Debug\PROYEK_PV.Properties.Resources.resources
+C:\Users\Bagas\Desktop\PROYEK PV\PROYEK PV\obj\Debug\PROYEK_PV.Resource1.resources
+C:\Users\Bagas\Desktop\PROYEK PV\PROYEK PV\obj\Debug\PROYEK PV.csproj.GenerateResource.cache
+C:\Users\Bagas\Desktop\PROYEK PV\PROYEK PV\obj\Debug\PROYEK PV.csproj.CoreCompileInputs.cache
+C:\Users\Bagas\Desktop\PROYEK PV\PROYEK PV\obj\Debug\PROYEK PV.exe
+C:\Users\Bagas\Desktop\PROYEK PV\PROYEK PV\obj\Debug\PROYEK PV.pdb
+C:\Users\Bagas\Desktop\PROYEK PV\PROYEK PV\obj\Debug\PROYEK_PV.Play.resources
+C:\Users\Bagas\Desktop\PROYEK PV\PROYEK PV\obj\Debug\PROYEK_PV.score.resources
+C:\Users\Bagas\Desktop\PROYEK PV\PROYEK PV\obj\Debug\PROYEK_PV.Replay.resources
